@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "942215868257",
+    "firebase_url": "https://getmecar-43589.firebaseio.com",
+    "project_id": "getmecar-43589",
+    "storage_bucket": "getmecar-43589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942215868257:android:3b9ed4c4bf50892b579f20",
+        "android_client_info": {
+          "package_name": "com.example.getmecar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942215868257-qb1pu4nfu2lb2m1lohiemtq0u9tikqpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfa6euxYqzrTrrkAAKXXQXiTYgYQJEmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942215868257-qb1pu4nfu2lb2m1lohiemtq0u9tikqpj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942215868257-rafhr593klkhg1970jkqbtrut8q7opl5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.getmecar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942215868257:android:f262f7ba160714ef579f20",
+        "android_client_info": {
+          "package_name": "com.example.getmecar_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942215868257-qb1pu4nfu2lb2m1lohiemtq0u9tikqpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfa6euxYqzrTrrkAAKXXQXiTYgYQJEmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942215868257-qb1pu4nfu2lb2m1lohiemtq0u9tikqpj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942215868257-rafhr593klkhg1970jkqbtrut8q7opl5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.getmecar"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942215868257:android:8c879ac56fd0d006579f20",
+        "android_client_info": {
+          "package_name": "com.example.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942215868257-qb1pu4nfu2lb2m1lohiemtq0u9tikqpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLfa6euxYqzrTrrkAAKXXQXiTYgYQJEmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942215868257-qb1pu4nfu2lb2m1lohiemtq0u9tikqpj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942215868257-rafhr593klkhg1970jkqbtrut8q7opl5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.getmecar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
